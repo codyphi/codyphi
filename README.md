@@ -14,11 +14,9 @@ I fine-tune and deploy LLMs (Llama-3.2, Gemma 3) on H100/A100 GPUs, build entity
 
 **Things I've built**
 
-- [Sublime Ollama Assistant](https://github.com/codyphi/sublime-ollama) — local AI coding assistant inside Sublime Text, powered by Ollama
-- [Distributed Training Pipeline](https://github.com/codyphi/distributed-training) — multi-GPU training with PyTorch DDP/FSDP
-- [RAG HR Policy Assistant](https://github.com/codyphi/rag-hr-policy) — semantic search over documents with LLM-powered answers
+- [Sublime Ollama Assistant](https://github.com/codyphi/ollama-sublime-assistant) — local AI coding assistant inside Sublime Text, powered by Ollama
 - [SynDataLab](https://github.com/codyphi/syndatalab) — synthetic data generation for training ML models
-- [Voice Dict](https://github.com/codyphi/voice-dict) — desktop voice-to-text app built with Tauri + Rust
+- [Voice Dict](https://github.com/codyphi/voice-dictation) — desktop voice-to-text app built with Tauri + Rust
 
 ---
 
