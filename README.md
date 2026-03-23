@@ -16,7 +16,7 @@ I fine-tune and deploy LLMs (Llama-3.2, Gemma 3) on H100/A100 GPUs, build entity
 
 - [Sublime Ollama Assistant](https://github.com/codyphi/ollama-sublime-assistant) — local AI coding assistant inside Sublime Text, powered by Ollama
 - [SynDataLab](https://github.com/codyphi/syndatalab) — synthetic data generation for training ML models
-- [Voice Dict](https://github.com/codyphi/voice-dictation) — desktop voice-to-text app built with Tauri + Rust
+- [Voice Dictation](https://github.com/codyphi/voice-dictation) — desktop voice-to-text app built with Tauri + Rust 
 
 ---
 
